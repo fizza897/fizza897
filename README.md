@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<img align="right" alt="coding" widyh="400" src="![image](https://github.com/fizza897/fizza897/assets/99113832/bca825c0-06d1-4d40-9f4f-3639b252e7b6)"
+<img align="right" alt="coding" widyh="400" src="![image](https://github.com/fizza897/fizza897/assets/99113832/bca825c0-06d1-4d40-9f4f-3639b252e7b6)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fizza897&label=Profile%20views&color=0e75b6&style=flat" alt="fizza897" /> </p>
 
 <h3 align="left">Connect with me:</h3>
